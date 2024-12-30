@@ -2,6 +2,8 @@
 
 A lightweight React component that automatically adjusts text size to fit container width.
 
+On npm at [stretch-text](https://www.npmjs.com/package/stretch-text)
+
 ## Features
 
 - 📏 Automatically fits text to container width
