@@ -21,7 +21,7 @@ const Stretch: React.FC<StretchProps> = ({ text }) => {
     console.log('Initial text width:', textElement.offsetWidth);
 
     // Increase font size until text width matches container width
-    while (textElement.offsetWidth < containerWidth && fontSize < 1000) {
+    while (textElement.offsetWidth < containerWidth && fontSize < 9999) {
       fontSize++;
       textElement.style.fontSize = `${fontSize}px`;
       console.log(`Font size: ${fontSize}, Text width: ${textElement.offsetWidth}`);
