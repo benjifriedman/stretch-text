@@ -48,7 +48,7 @@ const App = () => {
 
 ## Support
 
-If you find this package helpful, please consider giving it a star on GitHub! For issues and feature requests, please use the [GitHub issue tracker](https://github.com/yourusername/react-text-stretch/issues).
+If you find this package helpful, please consider giving it a star on GitHub! For issues and feature requests, please use the [GitHub issue tracker](https://github.com/benjifriedman/stretch-text/issues).
 
 ## License
 
