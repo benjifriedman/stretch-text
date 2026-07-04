@@ -1,6 +1,6 @@
 {
   "name": "stretch-text",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Text element that stretches 100% across a container",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
